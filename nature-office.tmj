@@ -1489,7 +1489,7 @@
         {
          "columns":32,
          "firstgid":1122,
-         "image":"..\/cofest-map\/tilesets\/LPCfloors-32x-bluecarrot16.png",
+         "image":"tilesets\/LPCfloors-32x-bluecarrot16.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
